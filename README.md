@@ -20,7 +20,7 @@ The goal of this project is to explore how modern AI systems generate text, imag
 * Pandas
 * Scikit-learn
 * TensorFlow 
-* Anthropic APIs
+* Anthropic/OPENAI APIs
 * Jupyter Notebook
 
 ## Objective
